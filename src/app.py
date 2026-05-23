@@ -63,6 +63,12 @@ activities = {
         "max_participants": 20,
         "participants": ["mia@mergington.edu", "ben@mergington.edu"]
     },
+    "Debate Club": {
+        "description": "Practice public speaking and argumentation in friendly debates",
+        "schedule": "Wednesdays, 4:00 PM - 5:30 PM",
+        "max_participants": 18,
+        "participants": ["sophia@mergington.edu", "aaron@mergington.edu"]
+    },
     "Math Olympiad": {
         "description": "Solve challenging math problems and prepare for competitions",
         "schedule": "Thursdays, 3:30 PM - 4:30 PM",
